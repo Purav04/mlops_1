@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 17 16:13:11 2022
-
-@author: purav
-"""
-
 import os
 
 dirs = [
