@@ -1,3 +1,6 @@
+# split the raw data
+# save it in data/processed folder
+
 import argparse
 import encodings
 import os
